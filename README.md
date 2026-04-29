@@ -1,2 +1,40 @@
-# E-commerce
-Developed a predictive ML model to analyze e-commerce customer behavior and churn using Python, Scikit-learn, and XGBoost. Performed data preprocessing and feature engineering, improving accuracy by 18%. Achieved 87% accuracy and built insightful visualizations for business decision-making.
+# 🛒 E-commerce Customer Behavior Prediction
+
+## 📌 Overview
+This project predicts customer purchase behavior and churn using Machine Learning models. It helps businesses identify potential customers who may stop using the service and take proactive actions.
+
+## 🚀 Features
+- Data preprocessing and cleaning  
+- Feature engineering and selection  
+- Classification models for churn prediction  
+- Model evaluation and comparison  
+- Data visualization for insights  
+
+## 🛠️ Tech Stack
+- Python  
+- Pandas, NumPy  
+- Scikit-learn, XGBoost  
+- Matplotlib, Seaborn  
+
+## 📊 Dataset
+- Customer transaction data including:
+  - Purchase history  
+  - Customer activity  
+  - Demographics  
+
+## ⚙️ Installation
+bash git clone https://github.com/your-username/ecommerce-customer-behavior-prediction.git cd ecommerce-customer-behavior-prediction pip install -r requirements.txt python main.py 
+
+## 📈 Models Used
+- Logistic Regression  
+- Random Forest  
+- XGBoost  
+
+## 📉 Results
+- Achieved ~87% accuracy in churn prediction  
+- Identified key factors influencing customer behavior  
+
+## 🔮 Future Improvements
+- Deploy using Streamlit  
+- Add real-time data integration  
+- Improve model with deep learning  
